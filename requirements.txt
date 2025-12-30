@@ -1,0 +1,8 @@
+# LSM-Tree Implementation Dependencies
+
+# Core dependency for sorted containers
+sortedcontainers==2.4.0
+
+# Testing (optional, built-in unittest is sufficient)
+# pytest==7.4.3
+# pytest-cov==4.1.0
